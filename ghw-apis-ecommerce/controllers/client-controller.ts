@@ -12,4 +12,9 @@ class ClientController implements Client {
     this.email = email;
     this.phone = phone;
   }
+
+  getClient() {
+    return //client
+  }
+
 }
